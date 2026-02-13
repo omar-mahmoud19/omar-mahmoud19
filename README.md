@@ -7,7 +7,7 @@ I'm a dedicated Data Engineer with a passion for building scalable and efficient
 </p>
 <ul>
   <li>🔭 Check out my <a href="https://drive.google.com/file/d/19D5DU1ZJqLABR2T7AAJxxwqvJDADmJLG/view?usp=sharing"><b>Resume</b></a></li>
-  <li>💻 All of my projects are available on <a href="https://github.com/yashwanths814/"><b>GitHub</b></a></li>
+  <li>💻 All of my projects are available on <a href="https://github.com/omar-mahmoud19"><b>GitHub</b></a></li>
   <li>🌱 Currently exploring advanced cloud architectures and big data technologies.</li>
   <li>👯 Open to collaboration with developers, data scientists, and tech enthusiasts.</li>
 </ul>
