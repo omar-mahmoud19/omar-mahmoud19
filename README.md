@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mahmoud</h1>
-<h3 align="center">Data Engineer | Open-source Enthusiast | Problem Solver</h3>
-
-<hr>
-
-<img src="NatureWithTech.jpg" alt="NatureWithTech" width="1100">
-
-<hr>
+<h3 align="center">Data Engineer | Open-source Enthusiast</h3>
 
 <h3 align="left">About Me</h3>
 <p>
@@ -22,6 +16,7 @@ I'm a dedicated Data Engineer with a passion for building scalable and efficient
 
 <h4>📋 Programming Languages</h4>
 <p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
 <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -50,13 +45,6 @@ I'm a dedicated Data Engineer with a passion for building scalable and efficient
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-<h3 align="left">📈 GitHub Stats</h3>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="omar-github-stats"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814" alt="omar-github-streak"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanths814&show_icons=true&locale=en&layout=compact" alt="omar-top-langs"/>
 </p>
 
 <h3 align="left">📫 Connect with Me</h3>
