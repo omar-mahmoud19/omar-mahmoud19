@@ -6,7 +6,7 @@
 I'm a dedicated Data Engineer with a passion for building scalable and efficient data pipelines. I specialize in transforming raw data into actionable insights and automating data workflows to support informed decision-making. Always keen to learn new technologies and contribute to impactful projects.
 </p>
 <ul>
-<li>🔭 Check out my <a href="https://drive.google.com/drive/my-drive" target="_blank"><b>Resume</b></a></li>
+<li>🔭 Check out my <a href="https://drive.google.com/file/d/1EkWpWvtFyS9fwNJGqzR909YdSL-9Zbz6/view?usp=sharing" target="_blank"><b>Resume</b></a></li>
   <li>💻 All of my projects are available on <a href="https://github.com/omar-mahmoud19"><b>GitHub</b></a></li>
   <li>🌐 Check out my <a href="https://omar-mahmoud-site.lovable.app" target="_blank"><b>Portfolio</b></a></li>
   <li>🌱 Currently exploring advanced cloud architectures and big data technologies.</li>
