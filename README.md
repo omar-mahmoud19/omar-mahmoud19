@@ -19,7 +19,7 @@ I'm a dedicated Data Engineer with a passion for building scalable and efficient
 
 ---
 
-8## 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Programming & Databases
 <div align="left">
