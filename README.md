@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mahmoud</h1>
-<h3 align="center">Data Engineer | Open-source Enthusiast</h3>
+<h3 align="center">Data Engineer | AI & ML Enthusiast</h3>
 
 ---
 
