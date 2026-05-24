@@ -12,6 +12,7 @@ I'm a dedicated Data Engineer with a passion for building scalable and efficient
 <ul>
   <li>🔭 Check out my <a href="https://raw.githubusercontent.com/omar-mahmoud19/omar-mahmoud19/main/Omar_Mahmoud_CV_ATS.pdf" target="_blank"><b>Resume</b></a</li>
   <li>💻 All of my projects are available on <a href="https://github.com/omar-mahmoud19"><b>GitHub</b></a></li>
+  <li>💼 View my professional profile on <a href="https://www.linkedin.com/in/omar-mahmoud-43640b326" target="_blank"><b>LinkedIn</b></a></li>
   <li>🌐 Check out my <a href="https://omar-mahmoud-site.lovable.app" target="_blank"><b>Portfolio</b></a></li>
   <li>🌱 Currently exploring advanced cloud architectures and big data technologies.</li>
   <li>👯 Open to collaboration with developers, data scientists, and tech enthusiasts.</li>
